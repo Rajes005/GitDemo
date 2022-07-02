@@ -1,0 +1,4 @@
+This is version one of my source code
+This line added after commit
+Change by Rapid
+This is updated for stage skipping
