@@ -1,3 +1,4 @@
 *.log
 /untrack/
 static/untrack
+*.zip
